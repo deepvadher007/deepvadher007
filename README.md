@@ -19,7 +19,7 @@
 - 🔥 **Experimenting with AR & VR innovations**  
 
 ## 📫 Connect with Me  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/deepvadher007/)  
+- 🌐 [LinkedIn]([https://www.linkedin.com/in/deepvadher007/](https://www.linkedin.com/in/deep-vadher-51332b257))  
 - 🕹️ [GitHub](https://github.com/deepvadher007)  
 - 📩 Reach out via email: deepvadher07072004@gmail.com 
 
