@@ -18,7 +18,7 @@
 - 📱 Flutter Learner: Cross-platform apps with smart UI  
 - 🎨 UI/UX Enthusiast: Designing intuitive, emotional digital experiences  
 - 🎓 Final Year **Computer Engineering** student with real-world project experience  
-- 🛠️ Startup founder at **Sukh Sangam** — bridging events with tech  
+- 🛠️ Startup Co-founder at **Sukh Sangam** — bridging events with tech  
 
 ---
 
