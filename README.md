@@ -1,7 +1,10 @@
-<h1 align="center">🚀 Deep Vadher | @deepvadher007</h1>
+<h1 align="center">🚀 Deep Vadher</h1>
+<h3 align="center">AR/VR • Unity • Flutter • UI/UX • Game Dev Enthusiast</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=XR+Developer+%7C+AR+%2F+VR+%2F+Unity+Geek;Flutter+%26+UI%2FUX+Explorer;Bringing+Code+to+Life+with+Imagination" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&width=500&lines=XR+Developer+%7C+Unity+Geek;Flutter+%2F+UI%2FUX+Explorer;Building+Immersive+Realities+%F0%9F%8C%90" alt="Typing Animation" />
 </p>
+
 
 ---
 
