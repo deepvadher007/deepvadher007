@@ -1,33 +1,28 @@
-# 👋 Hi, I’m Deep Vadher (@deepvadher007)
+<h1 align="center">🚀 Deep Vadher | @deepvadher007</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&width=435&lines=XR+Developer+%7C+AR+%2F+VR+%2F+Unity+Geek;Flutter+%26+UI%2FUX+Explorer;Bringing+Code+to+Life+with+Imagination" alt="Typing SVG" />
+</p>
 
-## 🚀 About Me  
-- 🧠 Passionate **XR Developer** specializing in **AR, VR, and Unity Game Development**  
-- 🌐 Exploring the future of **immersive tech, the Metaverse**, and spatial computing  
-- 🎮 Creator of interactive experiences blending technology with imagination  
-- 🎓 Pursuing **Computer Engineering** with hands-on experience in real-world XR projects  
+---
 
-## 🔥 Skills & Technologies  
-- 🕹️ **Unity Engine** – 2D/3D Game Development, Physics, Animations  
-- 🥽 **VR Development** – Oculus, PC VR, Simulation & Training Apps  
-- 📱 **AR Development** – AR Foundation, Vuforia, Marker-based & Markerless  
-- 🌐 **Firebase Integration** – Realtime Database, Authentication in Unity  
-- 🎨 **Basic 3D Modeling** – Optimized assets for XR performance  
-- 🧰 **Version Control** – Git & GitHub  
+## 🔮 About Me  
 
-## 📌 Current Projects  
-- 🩺 **Healthcare VR App** – Immersive learning with 3D anatomy and hospital environments  
-- 🏗️ **Event Management Startup – "Sukh Sangam"** (Venue & Event Booking Platform)  
-- ✈️ **Indie Games** – Flight shooters, AR tower builders, Fruit Ninja-style games, and more  
-- 🔍 **Experimental XR** – Real-time simulations, AR overlays, and VR educational tools  
+🎮 Indie Dev | 🧠 Immersive Tech Enthusiast | 💡 Creative Engineer  
+> I **build realities** — from AR/VR worlds to mobile interfaces.  
+> Fuelled by code, curiosity, and chai ☕.
 
-## 🌟 Highlights  
-- 🎤 VR Expert at **Weld 4.0 Event** – Demonstrated TIG Welding VR Training System  
-- 📜 Contributed to a **Research Paper** on VR-based industrial education  
-- 🧪 Developed AR/VR applications for **healthcare, education**, and **industry 4.0** domains  
+- 🕹️ **Unity Generalist** — Gameplay, XR, Horror Sims, Puzzles  
+- 🧪 **AR/VR Developer** — Industry, Healthcare, Education  
+- 📱 **Flutter Rookie** — Mobile apps with functional design  
+- 🎨 **UI/UX First-Mover** — Designing things users love  
+- 🎓 Final Year **Computer Engineering** undergrad
 
-## 📫 Connect with Me  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/deep-vadher-51332b257)  
-- 🕹️ [GitHub](https://github.com/deepvadher007)  
-- 📩 Email: deepvadher07072004@gmail.com  
+---
 
-🚀 Let’s create something **immersive, innovative**, and **impactful** together!
+## ⚡ Tech Stack
+
+```bash
+🧠 XR & Game Dev:  Unity · C# · AR Foundation · Vuforia · Blender
+📱 App & Backend :  Flutter · Dart · Firebase · Android Studio
+🎨 UI & Design   :  Figma · HTML/CSS · Wireframing · Prototyping
+🛠️ Tools        :  Git · GitHub · Trello · Notion · Visual Studio
