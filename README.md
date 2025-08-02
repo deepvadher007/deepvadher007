@@ -1,10 +1,6 @@
 <h1 align="center">🚀 Deep Vadher</h1>
 <h3 align="center">XR Developer • Unity • Flutter • UI/UX • Learning MERN</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&width=500&lines=Game+%26+XR+Dev+%7C+Unity+Lover;Learning+MERN+%7C+Flutter+%7C+Creative+Builder;Designing+Experiences+That+Feel+Like+Magic+✨" alt="Typing Animation" />
-</p>
-
 ---
 
 ## 🔮 About Me  
@@ -69,15 +65,6 @@
   <a href="https://www.linkedin.com/in/deep-vadher-51332b257"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="https://github.com/deepvadher007"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" /></a>
   <a href="mailto:deepvadher07072004@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepvadher007&show_icons=true&theme=radical&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepvadher007&theme=radical&hide_border=true" height="160"/>
 </p>
 
 ---
