@@ -1,60 +1,65 @@
 <h1 align="center">🚀 Deep Vadher</h1>
-<h3 align="center">AR/VR • Unity • Flutter • UI/UX • Game Dev Enthusiast</h3>
+<h3 align="center">XR Developer • Unity • Flutter • UI/UX • MERN Stack Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&width=500&lines=XR+Developer+%7C+Unity+Geek;Flutter+%2F+UI%2FUX+Explorer;Building+Immersive+Realities+%F0%9F%8C%90" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&width=500&lines=Game+%26+XR+Dev+%7C+Unity+Lover;MERN+Stack+%7C+Flutter+%7C+Creative+Builder;Designing+Experiences+That+Feel+Like+Magic+✨" alt="Typing Animation" />
 </p>
-
 
 ---
 
 ## 🔮 About Me  
 
-🎮 Indie Game Dev | 🧠 Immersive Tech Explorer | 💡 Creative Engineer  
-> I **build realities** — from XR simulations to mobile-first apps.  
-> Fueled by code, imagination, and a bit of chai ☕
+🎮 Indie XR/Game Dev | 🧠 Immersive Tech Explorer | 💻 MERN Stack Aspirant  
+> I **craft realities** — from VR horror games to smart booking systems.  
+> Fueled by code, imagination, chai, and sleepless ambition ☕
 
-- 🧠 XR Developer: **AR/VR, Unity3D, Spatial Computing**  
-- 📱 Flutter Learner: Cross-platform apps with smart UI  
-- 🎨 UI/UX Enthusiast: Designing intuitive, emotional digital experiences  
-- 🎓 Final Year **Computer Engineering** student with real-world project experience  
-- 🛠️ Startup Co-founder at **Sukh Sangam** — bridging events with tech  
+- 🔭 XR Engineer: **Unity3D, AR/VR, Timeline, VFX, Spatial Interactions**  
+- 📱 Flutter Dev: Created **Quotes App** using Public API  
+- 🎨 UI/UX Lover: Crafting smooth, intuitive interfaces and flows  
+- 👨‍🎓 Final Year **Computer Engineering** student  
+- 🚀 Founder & CEO of **Sukh Sangam Events Pvt. Ltd.** — B2B2C platform revolutionizing event tech in India  
 
 ---
 
 ## ⚙️ Tech Stack
 
-- 🧠 **XR & Game Dev**: Unity · C# · AR Foundation · Vuforia · Blender  
-- 📱 **App & Backend**: Flutter · Dart · Firebase · Android Studio  
-- 🎨 **UI/UX & Design**: Figma · HTML · CSS · Prototyping · Wireframing  
-- 🛠️ **Tools & Workflow**: Git · GitHub · Visual Studio · Notion · Trello  
+- 🧠 **XR & Game Dev**: Unity · C# · AR Foundation · Vuforia · Timeline · Blender  
+- 💻 **Full Stack**: MongoDB · Express.js · React.js · Node.js *(Learning)*  
+- 📱 **App Dev**: Flutter · Dart · Firebase · Android Studio  
+- 🎨 **UI/UX & Frontend**: Figma · HTML · CSS · JS · Responsive Design  
+- 🛠️ **Tools & Workflow**: Git · GitHub · Notion · Trello · Postman · VS Code  
 
 ---
 
 ## 🌟 Highlights
 
-✨ **VR Speaker @ Weld 4.0** – Presented an immersive TIG Welding Simulator  
-📄 **Research Contributor** – Co-authored paper on industrial VR training  
-🧪 **Healthcare XR Apps** – Built hospital-based anatomy apps in VR & AR  
-🎮 **Unity Game Projects** – AR Tower Builder, Flight Shooter, Fruit Ninja-style, Horror Game  
-💼 **Sukh Sangam** – Digitizing India’s event industry through tech-first booking systems  
+✨ **VR Expert @ Weld 4.0** – Showcased **VR TIG Welding Simulator**  
+📄 **Research Contributor** – Paper on **Industrial VR Training Systems**  
+🏥 **Healthcare XR** – Built **AR & VR apps** showcasing heart, lungs & brain  
+🎮 **Unity Game Dev Projects**:  
+- 🔫 **AR Tower Builder** – Physics-based AR stacking game  
+- ✈️ **Flight Shooter Game**  
+- 🍉 **Fruit Ninja-style Game**  
+- 🧟 **Horror Survival Game** *(Zombies, Flashlight, Puzzles, Timeline Cutscenes)*  
+📱 **Flutter Quotes App** – Uses API to show curated quotes dynamically  
+🏢 **Sukh Sangam Pvt. Ltd.** – Live startup digitizing offline event bookings (like IndiaMART for events)  
 
 ---
 
 ## 🚧 Currently Exploring
 
-- 🔧 Flutter + Firebase for startup MVPs  
-- 🧠 Realistic interactions in VR environments  
-- 🎨 UI/UX-first XR design flow  
-- 🌐 Unity multiplayer (Netcode for GameObjects)  
-- 🧩 Immersive horror puzzles with jump scares and Timeline cutscenes  
+- 🔧 **MERN Stack**: Full-stack development for MVPs & SaaS platforms  
+- 🧩 **Horror Game Enhancements**: Adding jump scares, generator puzzles, realistic enemy AI  
+- 🎯 **B2B Vendor Ecosystem** in Events Industry  
+- 🎨 Building UI/UX systems with emotional design & storytelling  
+- 🌐 Multiplayer XR (Unity Netcode for GameObjects)  
 
 ---
 
 ## 🧭 Mission  
 
-> **“I don’t just build apps or games — I build *feelings* through code.”**  
-> Merging tech, design, and imagination to craft unforgettable experiences.
+> **"I don’t just code features — I craft emotions and immersive stories through code."**  
+> Tech + Imagination + Hustle = *Experiences that stick.*
 
 ---
 
