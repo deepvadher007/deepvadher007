@@ -1,65 +1,65 @@
 <h1 align="center">🚀 Deep Vadher</h1>
-<h3 align="center">XR Developer • Unity • Flutter • UI/UX • MERN Stack Learner</h3>
+<h3 align="center">XR Developer • Unity • Flutter • UI/UX • Learning MERN</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&width=500&lines=Game+%26+XR+Dev+%7C+Unity+Lover;MERN+Stack+%7C+Flutter+%7C+Creative+Builder;Designing+Experiences+That+Feel+Like+Magic+✨" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&width=500&lines=Game+%26+XR+Dev+%7C+Unity+Lover;Learning+MERN+%7C+Flutter+%7C+Creative+Builder;Designing+Experiences+That+Feel+Like+Magic+✨" alt="Typing Animation" />
 </p>
 
 ---
 
 ## 🔮 About Me  
 
-🎮 Indie XR/Game Dev | 🧠 Immersive Tech Explorer | 💻 MERN Stack Aspirant  
-> I **craft realities** — from VR horror games to smart booking systems.  
-> Fueled by code, imagination, chai, and sleepless ambition ☕
+🎮 Indie XR/Game Dev | 🧠 Immersive Tech Explorer | 💻 Learning Web Dev  
+> I **craft realities** — from VR horror games to event tech systems.  
+> Fueled by code, imagination, chai, and raw ambition ☕
 
 - 🔭 XR Engineer: **Unity3D, AR/VR, Timeline, VFX, Spatial Interactions**  
-- 📱 Flutter Dev: Created **Quotes App** using Public API  
+- 📱 Flutter Dev: Built **Quotes App** using Public API  
 - 🎨 UI/UX Lover: Crafting smooth, intuitive interfaces and flows  
 - 👨‍🎓 Final Year **Computer Engineering** student  
-- 🚀 Founder & CEO of **Sukh Sangam Events Pvt. Ltd.** — B2B2C platform revolutionizing event tech in India  
+- 🚀 Founder & CEO of **Sukh Sangam Events Pvt. Ltd.** — B2B2C event tech platform for India  
 
 ---
 
 ## ⚙️ Tech Stack
 
 - 🧠 **XR & Game Dev**: Unity · C# · AR Foundation · Vuforia · Timeline · Blender  
-- 💻 **Full Stack**: MongoDB · Express.js · React.js · Node.js *(Learning)*  
+- 💻 **Full Stack**: *(Learning)* MongoDB · Express.js · React.js · Node.js  
 - 📱 **App Dev**: Flutter · Dart · Firebase · Android Studio  
-- 🎨 **UI/UX & Frontend**: Figma · HTML · CSS · JS · Responsive Design  
-- 🛠️ **Tools & Workflow**: Git · GitHub · Notion · Trello · Postman · VS Code  
+- 🎨 **UI/UX & Frontend**: Figma · HTML · CSS · JS  
+- 🛠️ **Tools**: Git · GitHub · Notion · Trello · VS Code  
 
 ---
 
 ## 🌟 Highlights
 
-✨ **VR Expert @ Weld 4.0** – Showcased **VR TIG Welding Simulator**  
-📄 **Research Contributor** – Paper on **Industrial VR Training Systems**  
-🏥 **Healthcare XR** – Built **AR & VR apps** showcasing heart, lungs & brain  
-🎮 **Unity Game Dev Projects**:  
+✨ **VR Speaker @ Weld 4.0** – Showcased a **VR TIG Welding Simulator**  
+📄 **Research Contributor** – Co-authored paper on **Industrial VR Training**  
+🏥 **Healthcare XR** – Built **AR & VR apps** for anatomy-based education  
+🎮 **Unity Projects**:  
 - 🔫 **AR Tower Builder** – Physics-based AR stacking game  
 - ✈️ **Flight Shooter Game**  
 - 🍉 **Fruit Ninja-style Game**  
-- 🧟 **Horror Survival Game** *(Zombies, Flashlight, Puzzles, Timeline Cutscenes)*  
-📱 **Flutter Quotes App** – Uses API to show curated quotes dynamically  
-🏢 **Sukh Sangam Pvt. Ltd.** – Live startup digitizing offline event bookings (like IndiaMART for events)  
+- 🧟 **Horror Game** – With puzzles, jump scares, Timeline cutscenes  
+📱 **Flutter Quotes App** – API-powered quotes app  
+🏢 **Sukh Sangam Pvt. Ltd.** – Digitizing Indian event industry, B2B2C-style  
 
 ---
 
 ## 🚧 Currently Exploring
 
-- 🔧 **MERN Stack**: Full-stack development for MVPs & SaaS platforms  
-- 🧩 **Horror Game Enhancements**: Adding jump scares, generator puzzles, realistic enemy AI  
-- 🎯 **B2B Vendor Ecosystem** in Events Industry  
-- 🎨 Building UI/UX systems with emotional design & storytelling  
-- 🌐 Multiplayer XR (Unity Netcode for GameObjects)  
+- 🧠 Learning full-stack web dev (**MERN**) from scratch  
+- 🔧 Startup MVP building using **Flutter + Firebase**  
+- 🎯 Unity Horror Level: Final Lab stage, puzzle design, Timeline cutscenes  
+- 🛠️ Real-time interactions & multiplayer logic in Unity  
+- 🎨 UI/UX-first approach in both apps and immersive worlds  
 
 ---
 
 ## 🧭 Mission  
 
 > **"I don’t just code features — I craft emotions and immersive stories through code."**  
-> Tech + Imagination + Hustle = *Experiences that stick.*
+> Merging tech, design, and hustle to create unforgettable digital experiences.
 
 ---
 
@@ -73,15 +73,11 @@
 
 ---
 
-## 📊 GitHub Stats & Trophies
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=deepvadher007&show_icons=true&theme=radical&hide_border=true" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepvadher007&theme=radical&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=deepvadher007&theme=radical&no-frame=true&margin-w=10&title=Commits,Repositories,Stars,Followers" />
 </p>
 
 ---
